@@ -1,1 +1,1 @@
-# zaliczgmine-mobile-pl
+# zaliczgmine-mobile
