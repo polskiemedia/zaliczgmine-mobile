@@ -1,0 +1,1 @@
+# zaliczgmine-mobile-pl
