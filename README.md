@@ -1,1 +1,0 @@
-# zaliczgmine-mobile
